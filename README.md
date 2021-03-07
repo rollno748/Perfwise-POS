@@ -40,4 +40,5 @@ MIT
 **Free Software, Hell Yeah! - But you can donate as well !**
 
 ## 💲 Donate
-<a target="_blank" href="https://www.buymeacoffee.com/rollno748"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a tea"><span style="margin-left:15px;font-size:28px !important;">Buy me a tea</span></a>
+<a href="https://www.buymeacoffee.com/rollno748" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
