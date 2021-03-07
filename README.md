@@ -18,9 +18,8 @@
     ├── ...
     └── out/my-electron-app-darwin-x64/my-electron-app.app/Contents/MacOS/my-electron-app
 
-- Type some Markdown on the left
-- See HTML in the right
 - ✨Magic ✨
+- Install the package and enjoy it 
 
 ## Features
 
